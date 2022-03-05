@@ -1,0 +1,103 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Alok Ratan Gautam",
+      "username": "alokratan277",
+      "email": "alokratan277@gmail.com",
+      "address": "A 419 Street no 11 Rahul Vihar 1st",
+      "phone": "8458550505"
+    },
+    {
+      "name": "RAJ KUMAR JI",
+      "phone": "8785665650",
+      "email": "raju@kumar.gmail.com",
+      "id": 41
+    },
+    {
+      "name": "RAMESH",
+      "phone": "8785665651",
+      "email": "ramesh@kumar.gmail.com",
+      "id": 62,
+      "address": "Rahul vihar"
+    },
+    {
+      "name": "Shivani",
+      "phone": "7845860665",
+      "email": "shiva@nani.com",
+      "id": 61
+    },
+    {
+      "name": "Manish Gautam",
+      "phone": "8755695697",
+      "email": "manish@ymail.com",
+      "id": 22
+    },
+    {
+      "name": "Pushpa Raj",
+      "phone": "8574856859",
+      "email": "jhukunga@nahi.com",
+      "id": 31
+    },
+    {
+      "name": "Annu Bhati",
+      "phone": "8758625526",
+      "email": "annu@bhati.com",
+      "id": 32
+    },
+    {
+      "name": "Neeraj kumar",
+      "phone": "9818643642",
+      "email": "neerajrkumar10@gamil.com",
+      "id": 33,
+      "address": "Rahul vihar"
+    },
+    {
+      "name": "Doreamon",
+      "phone": "7889559536",
+      "email": "doraemon@zuf.com",
+      "id": 34,
+      "address": "known"
+    },
+    {
+      "name": "Shivam",
+      "phone": "7845896583",
+      "email": "shivam244@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "Money Gautam",
+      "phone": "8527108234",
+      "email": "mani277@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "Sushila Gautam",
+      "phone": "7845252145",
+      "email": "sushila76@gmail.com",
+      "address": "A 419 Street no 11 Rahul Vihar 1st",
+      "id": 57
+    },
+    {
+      "name": "akash gautam",
+      "phone": "8656635443",
+      "email": "akki@gmail.com",
+      "address": "Duhai ghaziabad",
+      "id": 68
+    },
+    {
+      "name": "Urvashi",
+      "phone": "7854123668",
+      "email": "uru@vashi.com",
+      "address": "Priyagraaj",
+      "id": 69
+    },
+    {
+      "name": "Gaurav ",
+      "phone": "9457854647",
+      "email": "gauri@gmail.com",
+      "address": "Ghaziabad uttar pradesh",
+      "id": 70
+    }
+  ]
+}
